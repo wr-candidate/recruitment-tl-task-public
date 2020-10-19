@@ -2,7 +2,7 @@
 
 ## Description
 
-**YOUR TASK IS NOT TO WRITE CODE, BUT TO PERFORM A CODE REVIEW.**
+**Please note: Your task is not to write code, but to perform a code review.**
 
 Let's assume you became a leader of the young, immature team, which produces solutions of questionable quality. Below you'll find one of the projects the team is responsible for. Take a look into the repository, do the code review. Point out all the issues with the code quality and how it conforms to clean code (and any other you can think of) principles. Make sure that you look at the code from all possible angles and describe all the possible improvements. Detail all the changes that would have to be done (once again, from all the perspectives you can think of), for this code to become a production ready service (instead of command line application). You could consider resiliency to high loads, things like ddos attacks, auditing etc.
 
